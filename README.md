@@ -1,4 +1,4 @@
-# plant_disease_identification
+# AgroEye-Vision
 
 A new Flutter project.
 
